@@ -1,4 +1,5 @@
-require 'rspec/rails'
+# require 'rspec/rails'
+require 'rails/all'
 require 'shoulda-matchers'
 require 'capybara/rspec'
 
